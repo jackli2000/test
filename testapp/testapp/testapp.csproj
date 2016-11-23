@@ -15,15 +15,16 @@
     <PublishUrl>C:\Users\jackli\Documents\GitHub\test\clickonce\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
-    <UpdateEnabled>false</UpdateEnabled>
-    <UpdateMode>Foreground</UpdateMode>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
     <UpdateInterval>7</UpdateInterval>
     <UpdateIntervalUnits>Days</UpdateIntervalUnits>
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://github.com/jackli2000/test/tree/master/clickonce/</InstallUrl>
-    <ApplicationRevision>1</ApplicationRevision>
+    <InstallUrl>https://raw.githubusercontent.com/jackli2000/test/master/clickonce/</InstallUrl>
+    <UpdateUrl>https://raw.githubusercontent.com/jackli2000/test/master/clickonce/</UpdateUrl>
+    <ApplicationRevision>3</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
